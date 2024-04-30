@@ -1,0 +1,394 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Manrope";
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    width: 100%;
+    background: rgb(245, 245, 245);
+}
+
+.top_sec {
+    margin: 0 auto;
+    width: 1400px;
+    background-color: rgb(245, 245, 245);
+    color: rgb(245, 245, 245);
+}
+
+.container_up {
+    background: rgb(255, 255, 255);
+}
+
+.logo_metrika {
+    display: inline-block;
+    margin-left: 125px;
+    margin-right: 540px;
+    margin-top: 33px;
+    border-bottom: 151px;
+    width: 126.89px;
+    height: 21.42px;
+}
+
+
+.nav__about {
+    padding: 0px 60px 0px 0px;
+    margin: 0;
+    display: inline-block;
+    text-decoration:none;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    fill: rgb(18, 18, 18);
+    text-transform: uppercase;
+    color: rgb(18, 18, 18);
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+h1 {
+    width: 956px;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+.container {
+    margin: 0 auto;
+    width: 1400px;
+    background: rgb(255, 255, 255);
+    padding: 125px;
+}
+
+.interior {
+    position: relative;
+    margin-top: 30px;
+    height: 500px;
+    width: 1150px;
+    background-image: url(resources/interior.png);
+}
+
+.image-text {
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    width: 430px;
+    height: 81px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0,03em;
+    text-align: left;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: left;
+    letter-spacing: -3%;
+}
+
+h2 {
+    margin-top: 150px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+p.description {
+    margin-top: 30px;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 61px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+a {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 20px 40px;
+    border-radius: 5px;
+    background-color: rgb(173, 24, 24);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+
+/*! -------------------------!*/
+
+h3 {
+    box-sizing: border-box;
+    margin-top: 170px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    color: rgb(18, 18, 18);
+}
+
+.item__image {
+    width: 100%;
+    height: 450px;
+    margin-bottom: 15px;
+}
+
+.item__project_112 {
+    font-size: 30px;
+    font-weight: 400;
+    width: 100%;
+    line-height: 41px;
+    color: rgb(18, 18, 18);
+}
+
+.item__desc_a {
+    margin: 0px;
+    margin-bottom: 90px;
+    padding-left: 2px;
+    display: inline-block;
+    border: none;
+    font-size: 20px;
+    font-weight: 400;
+    height: 27px;
+    line-height: 27px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(173, 24, 24);
+    cursor: pointer;
+}
+
+
+.box_wrapper {
+    width: 1150px;
+    height: 158px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgb(173, 24, 24);
+}
+
+.text_project {
+    margin: 0 auto;
+    padding-top: 56px;
+    padding-bottom: 56px;
+    width: 100%;
+    font-size: 30px;
+    line-height: 41px;
+    font-weight: 400;
+    letter-spacing: 3%;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(173, 24, 24);
+}
+
+
+/*! -------------------------!*/
+
+
+.section {
+    margin-left: -125px ;
+    width: 1400px;
+    box-sizing: border-box;
+    background-color: rgb(18, 18, 18);
+}
+
+.name {
+    padding: 151px 1207px 34px 127px;
+    color: rgb(255, 255, 255);
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: -3%;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.item__plan_1 {
+    padding: 15px 0px 60px 2px;
+    margin-left: 125px;
+    margin-right: 125px;
+    color: rgb(255, 255, 255);
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+.item__plan_2 {
+    padding: 15px 0px 60px 3px;
+    margin-left: 125px;
+    margin-right: 125px;
+    color: rgb(255, 255, 255);
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+.item__plan_3 {
+    padding: 15px 0px 60px 3px;
+    margin-left: 125px;
+    margin-right: 125px;
+    color: rgb(255, 255, 255);
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+.item__plan_4 {
+    padding: 15px 0px 150px 3px;
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-bottom: 0 px;
+    color: rgb(255, 255, 255);
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+.container_photo {
+    position: relative;
+    margin-left: -125px;
+    width: 1400px;
+    height: 717px;
+    background-image: url(resources/bedroomfs.png) ;
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.title_project {
+    position: absolute;
+    right: 832px;
+    bottom: 60px;
+    left: 125px;
+    color: rgb(255, 255, 255);
+    font-family: Manrope;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+.section_contacts {
+    position: relative;
+    box-sizing: content-box;
+    margin: 0 auto;
+    margin-top: 0px;
+}
+
+.contact {
+    position: relative;
+    padding: 186px 0px 32px 124px;
+    color: rgb(18, 18, 18);
+    font-family: Manrope;
+    width: 90px;
+    height: 25px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    text-transform: uppercase;
+    width: 1400px;
+    height: 100px;
+    background-color: #fff;
+}
+
+.contact:before {
+    position: absolute;
+    content: '';
+    top: 130px;
+    width: 13px;
+    height: 22px;
+    background-image: url(resources/telephon-mini.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+.number  {
+    margin: 0 auto;
+    padding-top: 0px;
+    padding-left: 0px;
+    background-color: #fff;
+    text-decoration: none;
+    font-family: Manrope;
+    color: rgb(18, 18, 18);
+    font-family: Manrope;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+.mail {
+    margin: 0 auto;
+    padding-top: 0px;
+    padding-left: 0px;
+    background-color: #fff;
+    font-family: Manrope;
+    color: rgb(159, 153, 153);
+    font-family: Manrope;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -3%;
+    text-align: left;
+    stroke:rgb(159, 153, 153);
+}
+
+footer {
+    text-align: center;
+    margin: 0 auto;
+    width: 1400px;
+    height: 229px;
+    background-color:rgb(18, 18, 18);
+}
+
+
+.box {
+    margin: 0 auto;
+    padding-right: 53px;
+    padding-top: 60px;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+
+.box-metrika {
+    margin: 0 auto;
+    padding-right: 53px;
+    padding-top: 60px;
+    display: inline-block;
+    color: rgb(159, 153, 153);
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -3%;
+    text-align: left;
+}
